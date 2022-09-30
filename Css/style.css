@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+}
+header{
+    width: 100%;
+    height: 75px;
+    background-color:rgb(6, 6, 70);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+.bar{
+    background-color: rgb(39, 39, 105);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    height: 250px;
+}
+section{
+    overflow: hidden;
+
+}
+.left_block{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(105, 105, 226);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+.right_block{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(85, 165, 192);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    float: left;
+
+}
+.article_one{
+    width: 33.3%;
+    height: 200px;
+    background-color: skyblue;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+.article_two{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(189, 160, 216);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+.article_three{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(153, 146, 160);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    float: left;
+}
+.adds{
+    width: 30%;
+    height: 100px;
+    background-color: rgb(34, 110, 85);
+    text-align: center;
+    color: dodgerblue;
+    float: left;
+
+}
+.images{
+    width: 30%;
+    height: 100px;
+    background-color: rgb(60, 124, 103);
+    text-align: center;
+    color: dodgerblue;
+    float: right;
+}
+footer{
+    height: 60px;
+    background-color: black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
